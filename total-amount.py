@@ -1,1 +1,2 @@
-question = input("Enter how many apples and oranges you want to buy:")
+question = input("Enter how many apples you want to buy:")
+
